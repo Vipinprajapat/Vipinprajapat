@@ -1,5 +1,4 @@
-![logo](https://github.com/Vipinprajapat/Vipinprajapat/blob/main/contributions.svg)
-![logo](https://github.com/Vipinprajapat/Vipinprajapat/blob/main/counter.svg)
+
 <h1 align="center">Hi 👋, I'm Vipin Prajapat</h1>
 <h3 align="center">A passionate frontend developer✨</h3>
 
@@ -28,3 +27,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vipinprajapat&show_icons=true&locale=en&layout=compact" alt="vipinprajapat" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vipinprajapat&show_icons=true&locale=en" alt="vipinprajapat" /></p>
+
+![logo](https://github.com/Vipinprajapat/Vipinprajapat/blob/main/contributions.svg)
+![logo](https://github.com/Vipinprajapat/Vipinprajapat/blob/main/counter.svg)
