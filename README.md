@@ -13,9 +13,6 @@
 - 🌱 I’m currently learning **JavaScript,react,**
 
 - 📫 How to reach me **prajapatvipin90@gmail.com**
-
-- ⚡ Fun fact **Why do Java programmers have to wear glasses? Because they don’t C#.😂**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vipin-prajapat-183215212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vipin-prajapat-183215212/" height="30" width="40" /></a>
