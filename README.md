@@ -28,4 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vipinprajapat&show_icons=true&locale=en" alt="vipinprajapat" /></p>
 
 <!-- ![logo](https://github.com/Vipinprajapat/Vipinprajapat/blob/main/contributions.svg) -->
-![logo](https://github.com/Vipinprajapat/Vipinprajapat/blob/main/counter.svg)
+<!-- ![logo](https://github.com/Vipinprajapat/Vipinprajapat/blob/main/counter.svg) -->
